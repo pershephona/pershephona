@@ -50,7 +50,6 @@ Hi, I'm **Pershephona**. I try to build things that make life a little simpler �
 ---
  
 <div align="center">
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8b0000,100:0d0d0d&height=120&section=footer)
  
 *Thanks for swinging by!* 🕸️
  
