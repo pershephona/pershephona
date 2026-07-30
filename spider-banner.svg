@@ -1,0 +1,46 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0d10"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- web: spokes + rings, anchored in the top-right corner -->
+  <g stroke="#9aa0b4" stroke-width="1" opacity="0.45" fill="none">
+    <line x1="870" y1="10" x2="870" y2="240"/>
+    <line x1="870" y1="10" x2="773" y2="218"/>
+    <line x1="870" y1="10" x2="694" y2="158"/>
+    <line x1="870" y1="10" x2="648" y2="70"/>
+    <line x1="870" y1="10" x2="640" y2="10"/>
+
+    <polyline points="870,80 836,83 808,62 792,31 790,10"/>
+    <polyline points="870,160 807,145 756,106 726,49 721,10"/>
+    <polyline points="870,229 778,208 703,151 659,67 652,10"/>
+  </g>
+
+  <!-- dangling thread the spider travels on -->
+  <line x1="870" y1="10" x2="870" y2="180" stroke="#9aa0b4" stroke-width="1" opacity="0.4"/>
+
+  <!-- title -->
+  <text x="430" y="115" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="36" font-weight="bold" fill="#ffffff">Welcome to Pershephona's GitHub</text>
+
+  <!-- spider, animated up/down along the thread -->
+  <g id="spider">
+    <path d="M0,-2 Q-8,-14 -14,-10" stroke="#c0c0d0" stroke-width="1.4" fill="none"/>
+    <path d="M0,-2 Q8,-14 14,-10" stroke="#c0c0d0" stroke-width="1.4" fill="none"/>
+    <path d="M0,2 Q-11,4 -16,0" stroke="#c0c0d0" stroke-width="1.4" fill="none"/>
+    <path d="M0,2 Q11,4 16,0" stroke="#c0c0d0" stroke-width="1.4" fill="none"/>
+    <path d="M0,6 Q-10,12 -15,10" stroke="#c0c0d0" stroke-width="1.4" fill="none"/>
+    <path d="M0,6 Q10,12 15,10" stroke="#c0c0d0" stroke-width="1.4" fill="none"/>
+    <path d="M0,10 Q-8,18 -12,20" stroke="#c0c0d0" stroke-width="1.4" fill="none"/>
+    <path d="M0,10 Q8,18 12,20" stroke="#c0c0d0" stroke-width="1.4" fill="none"/>
+    <ellipse cx="0" cy="9" rx="9" ry="12" fill="#1a1a2e" stroke="#e63946" stroke-width="1"/>
+    <circle cx="0" cy="-6" r="5.5" fill="#1a1a2e" stroke="#e63946" stroke-width="1"/>
+    <circle cx="-2" cy="-7" r="1" fill="#ffffff"/>
+    <circle cx="2" cy="-7" r="1" fill="#ffffff"/>
+    <animateMotion path="M870,10 L870,170 L870,10" dur="6s" keyTimes="0;0.5;1" calcMode="linear" repeatCount="indefinite"/>
+  </g>
+</svg>
