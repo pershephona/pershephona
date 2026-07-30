@@ -22,24 +22,24 @@ Hi, I'm **Pershephona**. I try to build things that make life a little simpler �
  
 ---
  
-### 🛠️ Technologies & Tools
+### 🕸️ Technologies & Tools
  
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude%20AI-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-e63946?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1d3557?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0d0d10?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-e63946?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-1d3557?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0d0d10?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-e63946?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-1d3557?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20AI-0d0d10?style=for-the-badge&logoColor=white"/>
 </p>
 
  
 ---
  
-### 📊 GitHub Stats
+### 🕸️ GitHub Stats
  
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=pershephona&show_icons=true&hide_border=true&cache_seconds=1800&bg_color=0d0d10&title_color=e63946&icon_color=4cc9f0&text_color=c9c9d9&border_color=0d0d10" height="165"/>
