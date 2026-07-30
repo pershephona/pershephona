@@ -42,7 +42,7 @@ Hi, I'm **Pershephona**. I try to build things that make life a little simpler �
 ### 🕸️ GitHub Stats
  
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pershephona&show_icons=true&hide_border=true&cache_seconds=1800&bg_color=0d0d10&title_color=e63946&icon_color=4cc9f0&text_color=c9c9d9&border_color=0d0d10" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=pershephona&show_icons=true&hide_border=true&bg_color=0d0d10&title_color=e63946&icon_color=4cc9f0&text_color=c9c9d9&border_color=0d0d10" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pershephona&hide_border=true&background=0d0d10&border=0d0d10&stroke=2a2a40&ring=e63946&fire=4cc9f0&currStreakNum=4cc9f0&sideNums=e63946&currStreakLabel=4cc9f0&sideLabels=e63946&dates=c9c9d9" height="165"/>
 </p>
 <p align="left">
