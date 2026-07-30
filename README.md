@@ -42,13 +42,15 @@ Hi, I'm **Pershephona**. I try to build things that make life a little simpler �
 ### 📊 GitHub Stats
  
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pershephona&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pershephona&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pershephona&show_icons=true&hide_border=true&cache_seconds=1800&bg_color=0d0d10&title_color=e63946&icon_color=4cc9f0&text_color=c9c9d9&border_color=0d0d10" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pershephona&hide_border=true&background=0d0d10&border=0d0d10&stroke=2a2a40&ring=e63946&fire=4cc9f0&currStreakNum=4cc9f0&sideNums=e63946&currStreakLabel=4cc9f0&sideLabels=e63946&dates=c9c9d9" height="165"/>
 </p>
 <p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pershephona&theme=radical&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pershephona&hide_border=true&bg_color=0d0d10&color=4cc9f0&title_color=e63946&line=e63946&point=4cc9f0&area=true&area_color=e63946" width="100%"/>
 </p>
 ---
+ 
+<div align="center">
  
 *Thanks for swinging by!* 🕸️
  
