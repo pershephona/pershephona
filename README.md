@@ -36,7 +36,6 @@ Hi, I'm **Pershephona**. I try to build things that make life a little simpler â
 <img src="https://img.shields.io/badge/Claude%20AI-8B0000?style=for-the-badge"/>
 </p>
 
-> These are placeholder badges for a typical "vibe-coding" stack. Swap in whatever languages or frameworks your actual projects use â€” [shields.io](https://shields.io) and [simple-icons](https://simpleicons.org) have hundreds more.
 
 ---
 
