@@ -1,9 +1,10 @@
 
 <div align="center">
-![Header](spider-banner.svg)
+
+![Header](https://cdn.jsdelivr.net/gh/pershephona/pershephona@main/spider-banner.svg)
  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vCenter=true&width=520&lines=Vibe+Coder+%F0%9F%95%B8%EF%B8%8F;Slinging+code+across+the+web;My+spidey+sense+never+fails)](https://git.io/typing-svg)
- 
+
 </div>
 ---
  
