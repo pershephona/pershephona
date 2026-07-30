@@ -1,6 +1,4 @@
 
-
-Readme · MD
 <div align="center">
 ![Header](spider-banner.svg)
  
